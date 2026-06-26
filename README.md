@@ -6,16 +6,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2b4e,100:1a4a7a&height=200&section=header&text=Nurul%20Aida%20Binti%20Jamil&fontSize=36&fontColor=a8d8f0&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20Systems&descColor=5fb8d4&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=5FB8D4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🦈+Swimming+through+data+oceans...;🪼+Illuminating+insights+in+the+deep...;🐾+Tracking+patterns+like+a+leopard+seal..." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=5FB8D4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%A6%88+Swimming+through+data+oceans...;%F0%9F%AA%BC+Illuminating+insights+in+the+deep...;%F0%9F%90%BE+Tracking+patterns+like+a+leopard+seal..." alt="Typing SVG" />
 
 <br/>
 
-<!-- Ocean divider -->
-```
 🌊 ～～～～～～～～～～～～～～～～～～～～～～～～～ 🌊
-```
 
 </div>
 
